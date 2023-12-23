@@ -1,0 +1,48 @@
+.b{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    color: white;
+}
+#header #links a {
+    text-decoration: none;
+    color: black;
+    margin: 0px 5px;
+
+}
+#header #links #imgg{
+
+    margin: 0px 30px 
+
+}
+#imgg{
+    width: 45px;
+}
+#icons{
+    height: 50px;
+    border-radius: 50%
+}
+
+.body .gooog img{
+    width: 40%;
+    align-items: center;
+    display: flex;
+    margin: 50px 450px 50px 450px;
+}
+
+#form{
+    padding: 0px 600px;
+}
+.texts {
+    width: 100%;
+    padding: 0 600px;
+}
+.texts a {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border: 1px solid white ;
+    border-radius: 20px;
+}
+  
+
